@@ -7,4 +7,4 @@ Financial Model - Upasna Panchal
 - Features: Scenario Analysis, Intrisic value, DCF modelling
 - Objective: Analyze a company based on the data given, in a model with the use of different range and values. 
 
-📎 [Click here to download the Excel file](./https://github.com/Up-1-tech/Financial-models/blob/main/Portfolio.xls.xlsx)
+📎 [Click here to download the Excel file](./Portfolio.xls.xlsx)
