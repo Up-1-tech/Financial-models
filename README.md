@@ -1,6 +1,6 @@
 Financial Model - Upasna Panchal
 
-## 📈 Project: 3-Statement Financial Model – Tata Motors
+## 📈 Project: Financial Model statement – Tata Motors
 
 - Built using Excel as part of a self-learning initiative
 - Includes: Income statements and analysis
